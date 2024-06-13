@@ -1,0 +1,25 @@
+@media(max-width: 620px){
+    .container{
+        padding: 30px 0;
+    }
+
+}
+
+
+.relogio{
+    margin-top: 2px;
+}
+
+.relogio div{
+    width: 130px;
+    height: 130px
+}
+
+.container div{
+    width: 320px;
+    height: 80px;
+}
+
+.rodape{
+    margin-top: -20px;
+}
