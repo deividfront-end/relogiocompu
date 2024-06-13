@@ -21,12 +21,13 @@ body {
      }
 /*titulo Relogio Digital*/
 .header {
-        background-color: #FF0000;
+        background-color: #000000;
         text-align: center;
         border-radius: 7px;
         color: white;
         font-size: 18px;
         box-shadow: #B22222;
+        
         opacity:80%;
       }
 
